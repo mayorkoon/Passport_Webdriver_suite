@@ -1,0 +1,5 @@
+use passport
+
+Go
+
+delete from [passport].[dbo].[users] where email = 'passportuser@interswitchgroup.com'
